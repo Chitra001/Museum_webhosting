@@ -15,7 +15,7 @@
 <img src="src/static/img/banner/main.jpeg" width=100% >
 
 # Our Vision
-Our vision is to revolutionize the museum experience with PRAGYA AI, providing a seamless, efficient, and accessible platform for ticketing, personalized plans, and visitor engagement. By leveraging cutting-edge technology, we aim to make cultural experiences more accessible, inclusive, and user-friendly for all.
+Our vision is to revolutionize the tourism experience with PRAGYA AI, providing a seamless, efficient, and accessible platform for ticketing, personalized plans, and visitor engagement. By leveraging cutting-edge technology, we aim to make cultural experiences more accessible, inclusive, and user-friendly for all.
 
 ### 1. Accessibility for All:
 PRAGYA AI is designed to be accessible to everyone, whether through its multilingual support or by using platforms like WhatsApp, helping users who find it challenging to navigate traditional web interfaces.

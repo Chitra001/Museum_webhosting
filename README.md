@@ -41,8 +41,8 @@ We prioritize the security of user data, ensuring all personal and payment infor
 <div style="display: flex; flex-direction: row; align-items: center;">
   <div style="flex: 2 0 66.33%;">
     <!-- Left column content -->
-    <h3>🌟 Multi-Model Support:</h3>
-    <p style="text-align: justify;">By harnessing the power of advanced models like the Custom CNN, which achieves an outstanding accuracy rate of 90.25%, and the YOLOv8 model, boasting an 80% accuracy rate, our system excels in skin cancer detection. Elevating our accuracy even further, we employ a cutting-edge majority voting ensemble technique. This intelligent fusion of model predictions not only enhances our detection capabilities but also instills trust in the diagnostic process. As a result, we provide more precise assessments and personalized treatment recommendations, translating to improved patient outcomes and a significant positive impact on healthcare.</p>
+    <h3>🌍 Multi-Language Support:</h3>
+    <p style="text-align: justify;">PRAGYA AI breaks down language barriers by offering multilingual support, ensuring accessibility for users from diverse linguistic backgrounds. Whether through WhatsApp or other platforms, users can easily interact in their preferred language, making the system inclusive and globally relevant.</p>
   </div>
   <div style="flex: 1 0 33.66%; padding: 20px; padding-top: 50px;">
     <!-- Right column content (image) -->
@@ -53,8 +53,8 @@ We prioritize the security of user data, ensuring all personal and payment infor
 <div style="display: flex; flex-direction: row; align-items: center;">
   <div style="flex: 2 0 66.33%;">
     <!-- Left column content -->
-    <h3>📊 Report Generation and EMAIL:</h3>
-    <p style="text-align: justify;">Report generation and email integration are indispensable elements of our skin cancer detection system. Report generation compiles detailed assessments, aiding healthcare professionals in treatment planning, patient records, and clear communication. Meanwhile, email integration enhances user engagement by providing timely notifications, convenient access to assessment results, and facilitating remote consultations. Together, these features promote early diagnosis, personalized treatment recommendations, and improved patient outcomes, ensuring a comprehensive and user-centric approach to skin health management.</p>
+    <h3>📱 WhatsApp Integration:</h3>
+    <p style="text-align: justify;">By leveraging WhatsApp, PRAGYA AI provides a user-friendly interface for those who struggle with navigating traditional websites. This ensures that users can book tickets, receive updates, and access services in the most convenient way possible.</p>
   </div>
   <div style="flex: 1 0 33.66%; padding: 20px; padding-top: 50px;">
     <!-- Right column content (image) -->
@@ -65,8 +65,8 @@ We prioritize the security of user data, ensuring all personal and payment infor
 <div style="display: flex; flex-direction: row; align-items: center;">
   <div style="flex: 2 0 66.33%;">
     <!-- Left column content -->
-    <h3>🧠 LLAMA2 Based Query Assistant:</h3>
-    <p style="text-align: justify;">The language model integration in our skin cancer detection system acts as a versatile medical assistant, enhancing user interactions by enabling natural language queries. It promotes clarity in communication, accommodates users with varying expertise, empowers informed decisions, and boosts engagement in skin health monitoring.</p>
+    <h3>🧠 LLAMAv3.1 -Based Query Assistant:</h3>
+    <p style="text-align: justify;">With the integration of a sophisticated LLAMA2-based AI assistant, PRAGYA AI enhances user interactions by allowing natural language queries. Whether it’s booking tickets, planning a day, or seeking recommendations, users can communicate effortlessly, with instant responses and personalized support.</p>
   </div>
   <div style="flex: 1 0 33.66%; padding: 20px; padding-top: 50px;">
     <!-- Right column content (image) -->
@@ -77,8 +77,19 @@ We prioritize the security of user data, ensuring all personal and payment infor
 <div style="display: flex; flex-direction: row; align-items: center;">
   <div style="flex: 2 0 66.33%;">
     <!-- Left column content -->
-    <h3>🌍 Multi Language Support:</h3>
-    <p style="text-align: justify;">Multi-language support is crucial in our skin cancer detection system for several key reasons. It ensures inclusivity, breaks language barriers, and promotes accessibility for users of diverse linguistic backgrounds. Additionally, it enhances global reach, contributing to widespread early skin cancer detection. Most importantly, multi-language support empowers users to access vital skin health information, make informed decisions, and seek timely medical attention, ultimately improving public health outcomes worldwide.</p>
+    <h3>🌟 Multi-Model Support:</h3>
+    <p style="text-align: justify;">PRAGYA AI utilizes advanced models, ensuring efficient and accurate handling of ticket bookings, hotel and cab reservations, and personalized visitor plans. By harnessing the power of AI, our system provides seamless interactions, intelligent recommendations, and smooth user experiences, tailored to each visitor’s preferences.</p>
+  </div>
+  <div style="flex: 1 0 33.66%; padding: 20px; padding-top: 50px;">
+    <!-- Right column content (image) -->
+    <img src="src/static/img/banner/lang.jpeg" alt="Image" width=100%>
+  </div>
+
+  <div style="display: flex; flex-direction: row; align-items: center;">
+  <div style="flex: 2 0 66.33%;">
+    <!-- Left column content -->
+    <h3>📊 Encrypted QR & Invoice:</h3>
+    <p style="text-align: justify;">Our system generates encrypted QR codes with real-time validation to ensure that each booking is unique and cannot be reused. This robust mechanism effectively prevents black market sales. Additionally, an invoice is automatically generated and sent directly to the user via WhatsApp.</p>
   </div>
   <div style="flex: 1 0 33.66%; padding: 20px; padding-top: 50px;">
     <!-- Right column content (image) -->

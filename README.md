@@ -119,28 +119,34 @@ We prioritize the security of user data, ensuring all personal and payment infor
 
 # Future Scope
 
-## 🎯 Instant Segmentation
+## 🎯 Personalized Booking Segmentation
 
 <div style="text-align: justify;">
-We can implement targeted lesion segmentation. This approach involves identifying and segmenting the specific area where skin cancer or diseases are observed. By precisely isolating the affected regions, the system can provide more accurate and focused results, aiding in the early detection and treatment planning for skin cancer cases. Targeted lesion segmentation enhances the system's effectiveness and adaptability, ensuring that it can pinpoint and analyze areas of concern with precision.
+We plan to implement more advanced segmentation for booking preferences. This would allow the system to automatically identify user preferences based on previous bookings and suggest personalized itineraries, accommodation, or transport options. By accurately segmenting user choices, the system can offer a more tailored experience, enhancing visitor satisfaction and efficiency.
 </div>
 
-## 🚀 Advanced Ensemble Techniques
+## 🚀 Advanced AI Techniques
 
 <div style="text-align: justify;">
-We want to extend the use of ensemble learning techniques. Currently, the project utilizes ensemble methods for model predictions. In the future, consider incorporating more advanced ensemble techniques such as stacking, boosting, or bagging. These methods can further enhance model accuracy and robustness by combining the strengths of multiple models. Advanced ensemble techniques can lead to even more reliable and accurate skin cancer detection. They can effectively handle complex cases and provide more confidence in the system's diagnostic results, making it a valuable tool for healthcare professionals.
+We aim to integrate advanced AI techniques such as reinforcement learning and predictive modeling to further refine recommendations and user interaction. These techniques will enable the system to adapt to user behavior in real-time, improving the accuracy of bookings, suggestions, and the overall user experience. The system will become more intuitive and responsive as it learns from each interaction.
 </div>
 
-## 🧠 Incorporating More Models
+## 🧠 Expanding Multilingual and Regional Support
 
 <div style="text-align: justify;">
-We continuously expand the range of models used for skin cancer detection. We will include additional pre-trained models and experiment with custom architectures. We will consider incorporating models designed for specific skin cancer subtypes or skin conditions. A diverse set of models increases the system's ability to detect a wide variety of skin conditions accurately. It allows for better coverage of rare or less common skin cancers and ensures that the system remains up-to-date with the latest advancements in deep learning.
+PRAGYA AI will expand its language capabilities, incorporating more regional languages and dialects. This will break down further barriers for diverse users, allowing them to interact seamlessly in their preferred language. Enhanced localization will make the system accessible to users in remote areas, broadening its reach across global markets.
+</div>
+
+## 📱 Deeper Integration with WhatsApp and Other Platforms
+
+<div style="text-align: justify;">
+Our future goal includes expanding beyond WhatsApp, integrating PRAGYA AI with more social and communication platforms like Telegram or Messenger. This will ensure users can access services via their preferred channels, further enhancing convenience and accessibility, especially for those unfamiliar with web-based systems.
 </div>
 
 ## 📊 Large Dataset Collection
 
 <div style="text-align: justify;">
-We will invest in collecting and curating a larger and more diverse dataset of skin images. We can collaborate with healthcare institutions, dermatologists, and research organizations to accumulate high-quality images representing various skin types, ages, and ethnicities. We will augment the dataset with expert annotations. A larger and diverse dataset is the foundation of robust machine learning models. It enables the system to generalize better and detect skin cancer accurately across a broader spectrum of cases. Moreover, it fosters the development of models that are more resilient to real-world variations in skin appearances.
+we will invest in collection and preparation of a larger dataset of various tourist attractions. We can collaborate and/or partner with various private museums, art galleries, etc to offer users a wider range of leisure places. 
 </div>
 
 #
